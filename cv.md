@@ -19,23 +19,15 @@ Linkedin:
 https://www.linkedin.com/in/
 alina-trofimova-a520ba194
 
-
-
 ### Summary
 
 I strive to realize myself in a new profession. I am ready for fast learning and
 interesting projectsthat will help build a better world
 
-### Experience
- Trainee :
-Go IT | Apprenticeship | 2023.04 - 2023.05
-With mentors I designed and implemented fron-end webpage with HTML, CSS for
-interactions with clients CV-s
+### Soft skills
 
-Assistant:
-Solaris Bus&Coach | 2015.01 – 2017.12
-My responsibilities include preparing buses before selling them to clients and
-preparing accompanying documentation.
+I am an organized and responsible person who likes to see results after hard work.
+I love working in a team and learning new things.
 
 ### Tech skills
 HTML, CSS, Figma, VS Code, fast learning, MS Office.
@@ -57,11 +49,22 @@ HTML, CSS, Figma, VS Code, fast learning, MS Office.
           </div>
         </div>
 ```
+### Experience
+ Trainee :
+Go IT | Apprenticeship | 2023.04 - 2023.05
+With mentors I designed and implemented fron-end webpage with HTML, CSS for
+interactions with clients CV-s
 
-### Soft skills
+Assistant:
+Solaris Bus&Coach | 2015.01 – 2017.12
+My responsibilities include preparing buses before selling them to clients and
+preparing accompanying documentation.
 
-I am an organized and responsible person who likes to see results after hard work.
-I love working in a team and learning new things.
+### Education
+Kharkov National University of Urban 
+Economy A. N. Beketova
+Degree- Master of Engineering
+Field of study - Electric power station
 
 ### Training / Courses
 
@@ -74,22 +77,8 @@ This is an interactive online course for learning HTML and CSS for beginner.
 Let`s speak English| 2023.05 – now
 Unqork Academy and MS Power Platform
 
-### Education
-Kharkov National University of Urban 
-Economy A. N. Beketova
-Degree- Master of Engineering
-Field of study - Electric power statio
-
-
-
-
-
-
 ### Languages
-Ukrainian – native 
-
-Russian – Fluent
-
-Polish – Fluent
-
-English – Elementary
+* Ukrainian – native 
+* Russian – Fluent
+* Polish – Fluent
+* English – Elementary
