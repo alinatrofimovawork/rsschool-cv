@@ -1,0 +1,1 @@
+## This repository was created to create a CV for a student at The Rolling Scopes School
