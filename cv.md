@@ -10,6 +10,9 @@ Murowana Goslina ,
 st.Przesmyk 10, 
 62-095, Poland
 
+Discord:
+Alina(@alinatrofimovawork)
+
 Email: 
 alina.trofimova.work@gmail.com
 
@@ -68,13 +71,13 @@ Field of study - Electric power station
 
 ### Training / Courses
 
-Udemy | 2022 - now
+1. Udemy | 2022 - now
 Front End Web Development Courses
 Go IT| 2023.04 
 
 This is an interactive online course for learning HTML and CSS for beginner.
 
-Let`s speak English| 2023.05 – now
+2. Let`s speak English| 2023.05 – now
 Unqork Academy and MS Power Platform
 
 ### Languages
