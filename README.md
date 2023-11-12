@@ -1,2 +1,2 @@
-## This repository was created to create a CV for a student at The Rolling Scopes School
+## We have new view of CV
 https://alinatrofimovawork.github.io/rsschool-cv/cv
