@@ -37,7 +37,6 @@ HTML, CSS, Figma, VS Code, fast learning, MS Office.
 
 ### Code example
 ```
-   <!-- company 3 -->
           <div class="Work-experience-container">
             <h4 class="Work-experience-position">
               Manager 
